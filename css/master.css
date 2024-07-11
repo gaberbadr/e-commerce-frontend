@@ -382,7 +382,7 @@ display:none;
     height: 55vh;
     padding:13vh 20px 20px 20px;
     display: block;
-    background-image: url("/img/girl.png");
+    background-image: url("../img/girl.png");
     background-position: top 45px left -72px;
     background-size: cover;
     background-repeat: no-repeat;
